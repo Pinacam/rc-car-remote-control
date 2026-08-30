@@ -23,6 +23,10 @@ A companion Functional Requirements Document ("EkoDrive") reframes the same buil
 - **Speed/steering feel:** a potentiometer (planned, not completed — see below)
 - Circuit was prototyped on a breadboard and simulated in Proteus before final assembly
 
+| Hand-drawn schematic | Proteus simulation |
+|---|---|
+| ![Hand-drawn schematic](images/hand-drawn-schematic.jpg) | ![Proteus simulation](images/proteus-simulation.jpg) |
+
 | | |
 |---|---|
 | ![Switch detail](images/flash-switch-detail.jpg) | ![Left/right switches](images/flash-left-right-switches.jpg) |
@@ -44,7 +48,7 @@ This was a hands-on lesson in wiring discipline as much as electronics theory:
 
 ## Contents
 
-- `images/` — real build photos: the assembled car and remote, and the switches/LEDs that drive forward-back and left-right motion
+- `images/` — real build photos (the assembled car and remote, switches/LEDs), the hand-drawn circuit schematic, and the Proteus simulation
 - `docs/final-project-report.docx` — full build report (materials, circuit design, implementation log, conclusion)
 - `docs/functional-requirements-ekodrive.docx` — Functional Requirements Document framing the build as the "EkoDrive" RC car toy product
 
