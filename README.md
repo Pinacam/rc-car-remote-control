@@ -49,8 +49,6 @@ This was a hands-on lesson in wiring discipline as much as electronics theory:
 ## Contents
 
 - `images/` — real build photos (the assembled car and remote, switches/LEDs), the hand-drawn circuit schematic, and the Proteus simulation
-- `docs/final-project-report.docx` — full build report (materials, circuit design, implementation log, conclusion)
-- `docs/functional-requirements-ekodrive.docx` — Functional Requirements Document framing the build as the "EkoDrive" RC car toy product
 
 ## What I'd do differently
 
